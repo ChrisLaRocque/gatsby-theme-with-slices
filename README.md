@@ -23,7 +23,8 @@ yarn workspace example develop
 │   ├── gatsby-config.js
 │   ├── gatsby-node.js
 │   ├── index.js
-│   └── package.json
+│   ├── package.json
+│   └── src
 ├── example
 │   ├── README.md
 │   ├── gatsby-config.js
