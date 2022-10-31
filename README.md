@@ -16,22 +16,23 @@ yarn workspace example develop
 ## Layout
 
 ```text
-.
-├── README.md
-├── gatsby-theme-with-slices
-│   ├── README.md
-│   ├── gatsby-config.js
-│   ├── gatsby-node.js
-│   ├── index.js
-│   ├── package.json
-│   └── src
-├── example
-│   ├── README.md
-│   ├── gatsby-config.js
-│   ├── package.json
-│   └── src
-├── package.json
-└── yarn.lock
+ .
+ ├── LICENSE
+ ├── README.md
+ ├── example
+ │   ├── README.md
+ │   ├── gatsby-config.js
+ │   ├── package.json
+ │   └── src
+ ├── gatsby-theme-with-slices
+ │   ├── README.md
+ │   ├── gatsby-config.js
+ │   ├── gatsby-node.js
+ │   ├── index.js
+ │   ├── package.json
+ │   └── src
+ ├── package.json
+ └── yarn.lock
 
 ```
 
