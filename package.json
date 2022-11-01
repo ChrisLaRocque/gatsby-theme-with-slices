@@ -5,7 +5,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "yarn workspace example build",
-    "log":"alder --depth 2 --exclude='.vscode|.cache|node_modules|public'"
+    "log": "alder --depth 2 --exclude='.vscode|.cache|node_modules|public'"
   },
   "workspaces": [
     "gatsby-theme-with-slices",
